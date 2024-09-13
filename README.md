@@ -1,4 +1,4 @@
-# BayesianLearning
+# Bayesian Learning
 The primary goal of this project is to understand Bayesian Learning, its underlying principles, and its applications in machine learning and various real-world problems. Bayesian Learning is a statistical method that combines prior knowledge with observed data to make informed predictions and decisions while continuously updating beliefs as new data becomes available.
 
 ## Overview
