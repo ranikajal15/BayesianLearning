@@ -35,7 +35,7 @@ Bayesian Inference is the process of updating the probability distribution of a 
 ## Bayesian Networks
 A Bayesian network, also known as a belief network, is a graphical representation of probabilistic relationships between a set of variables. It consists of nodes (representing variables) and directed edges (representing dependencies) that form a directed acyclic graph (DAG). The structure of a Bayesian network encodes conditional independence relationships, which is useful for making predictions and reasoning under uncertainty.
 
-How Bayesian Networks Work:
+#### How Bayesian Networks Work:
 
 Each node in the network represents a random variable.
 Directed edges indicate probabilistic dependencies between the variables.
