@@ -45,8 +45,11 @@ The network encodes the joint probability distribution of all the variables.
 Bayesian Learning has wide applications across various fields, including:
 
 **Spam Detection:** Classifying emails as spam or not spam based on content analysis.
+
 **Natural Language Processing (NLP):** Used in tasks like text classification and sentiment analysis.
+
 **Image and Speech Recognition:** Recognizing patterns in image and speech data.
+
 **Medical Diagnosis:** Estimating the probability of diseases based on patient symptoms and test results.
 
 ## Case Study: Medical Diagnosis
@@ -55,10 +58,15 @@ This case study showcases how Bayesian Learning is applied in medical diagnosis,
 Key steps:
 
 **Data Collection:** Gather patient data, including symptoms and medical history.
+
 **Feature Selection:** Select relevant features for building the model.
+
 **Bayesian Network Setup:** Set up a network to model dependencies between symptoms and diseases.
+
 **Model Training:** Train the model using prior beliefs and data to make predictions.
+
 **Inference:** Update the network with new patient data to refine predictions.
+
 **Diagnosis & Decision Support:** Use the trained network to assist medical professionals in diagnosis and treatment planning.
 
 ## Conclusion
