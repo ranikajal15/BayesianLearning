@@ -7,6 +7,8 @@ Bayesian Learning is based on Bayes' theorem, which provides a probabilistic fra
 **Key Elements:**
 
 **Prior Beliefs:** Initial assumptions or knowledge before observing new data.
+
 **Likelihood:** The probability of observing the data given the hypothesis.
+
 **Posterior Probability:** Updated beliefs after observing the data, calculated using Bayes' theorem.
 
